@@ -41,7 +41,7 @@ I'm an indie full-stack developer with task driven professionalism dedicated to 
 
 ### 📊 Stats
 
-![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&theme=gruvbox)
+!(https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&theme=gruvbox)
 
 
 <!--<details>
