@@ -41,10 +41,6 @@ https://yuvraj-links-v2.vercel.app/
 
 <br />
 
-### 📊 Stats
-
-[![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--<details>
  <summary><h3>👨‍💻 Yuvraj's Coding Journey</h3></summary>-->
 
