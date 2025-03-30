@@ -1,6 +1,6 @@
 # 🏄‍♂️Yuvraj Dahal
 
-**`Tech Connoisseur (Developer/Creator)`**
+**`Digital Craftsman (Developer)`**
 
 I'm an indie full-stack developer with task driven professionalism dedicated to developing and designing interactive and user friendly websites. Expertise in web development with a ability to learn in new environments and enjoy learning & trying new technologies.
 ```
