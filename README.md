@@ -61,27 +61,25 @@ I'm an indie full-stack developer with task driven professionalism dedicated to 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajdahal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=yuvrajdahal&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=yuvrajdahal&theme=radical&hide_border=true&background=0D1117" alt="streak" />
 </p>
 
-<!-- Animated snake eating contributions — requires the Platane/snk GitHub Action.
-     Once set up, it auto-generates this SVG from your contribution graph. -->
+<!-- Animated activity graph — works out of the box, no setup required -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajdahal&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=ffffff&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<!-- 🐍 Optional snake animation: uncomment AFTER you add the Platane/snk GitHub Action
+     to your profile repo. Until that Action runs, this SVG won't exist. -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/yuvrajdahal/yuvrajdahal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+-->
 
-<!-- ═══════════════════ ABSTRACT GLOW DIVIDER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&section=header" />
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajdahal&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-</p>
 
 <!--<details>
  <summary><h3>👨‍💻 Yuvraj's Coding Journey</h3></summary>-->
