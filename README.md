@@ -83,9 +83,6 @@ $ ls ~/skills
 
 ### `~/ stats`
 
-<!-- grayscale theme — no colors, just white on dark -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C9D1D9&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117" alt="stats" />
-
 <!-- monochrome contribution / activity graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajdahal&hide_border=true&bg_color=0D1117&color=C9D1D9&title_color=C9D1D9&line=8B949E&point=C9D1D9&area=true&area_color=21262D" alt="contribution graph" />
 
