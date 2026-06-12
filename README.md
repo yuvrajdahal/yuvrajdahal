@@ -1,84 +1,99 @@
-<!-- ═══════════════════ ANIMATED WAVE HEADER ═══════════════════ -->
+<div align="left">
+
+<!-- subtle monochrome typing animation — the only motion on the page -->
 <a href="https://yuvrajdahal.com.np/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yuvraj%20Dahal&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Digital%20Craftsman%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=C9D1D9&center=false&vCenter=true&width=520&height=40&lines=indie+full-stack+developer;designing+interactive+UIs;always+learning%2C+always+shipping" alt="typing" />
 </a>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<p align="center">
-  <a href="https://yuvrajdahal.com.np/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Indie+Full-Stack+Developer+%F0%9F%8F%84;Designing+interactive+%26+user-friendly+UIs;Always+learning+new+technologies;Turning+ideas+into+products+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
+# Yuvraj Dahal
 
-# 🏄‍♂️ Yuvraj Dahal
+`Digital Craftsman` &nbsp;·&nbsp; `Full-Stack Developer`
 
-**`Digital Craftsman (Developer)`**
+<a href="https://yuvrajdahal.com.np/"><img src="https://img.shields.io/badge/website-yuvrajdahal.com.np-C9D1D9?style=flat-square&labelColor=0D1117&color=21262D" alt="website"/></a>
+<a href="https://www.linkedin.com/in/yuvrajdahal/"><img src="https://img.shields.io/badge/linkedin-C9D1D9?style=flat-square&logo=linkedin&logoColor=C9D1D9&labelColor=0D1117&color=21262D" alt="linkedin"/></a>
+<a href="https://www.instagram.com/yuvrajdl/"><img src="https://img.shields.io/badge/instagram-C9D1D9?style=flat-square&logo=instagram&logoColor=C9D1D9&labelColor=0D1117&color=21262D" alt="instagram"/></a>
+<a href="https://github.com/yuvrajdahal"><img src="https://img.shields.io/github/followers/yuvrajdahal?style=flat-square&logo=github&logoColor=C9D1D9&labelColor=0D1117&color=21262D&label=follow" alt="github"/></a>
 
-I'm an indie full-stack developer with task driven professionalism dedicated to developing and designing interactive and user friendly websites. Expertise in web development with a ability to learn in new environments and enjoy learning & trying new technologies.
+</div>
 
-🌐 **[yuvrajdahal.com.np](https://yuvrajdahal.com.np/)**
+---
 
-<p align="left">
-  <a href="https://www.instagram.com/yuvrajdl/">
-    <img alt="Instagram" title="Follow me on insta" src="https://custom-icon-badges.demolab.com/badge/Instagram-pink?logo=instagram&labelColor=CE4630&style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yuvrajdahal/">
-    <img alt="LinkedIn" title="Visit me here" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?logo=linkedin&labelColor=blue&style=for-the-badge"/></a>
-  <a href="https://github.com/yuvrajdahal?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yuvrajdahal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/yuvrajdahal?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yuvrajdahal?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+```bash
+$ whoami
+> Yuvraj Dahal — indie full-stack developer
 
-<!-- ═══════════════════ ANIMATED GLOWING DIVIDER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" />
+$ cat about.txt
+> Task-driven professional building interactive, user-friendly websites.
+> I learn fast, ship often, and enjoy trying new technologies.
 
-### 🧰 Technologies
+$ ls ~/skills
+> typescript  javascript  react  nodejs  flutter
+> mongodb  firebase  figma  linux  git
+```
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+---
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="BootStrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+### `~/ tech`
 
-<br /><br /><br />
+**languages**
+<br/>
+![HTML](https://img.shields.io/badge/HTML-21262D?style=flat-square&logo=html5&logoColor=C9D1D9)
+![CSS](https://img.shields.io/badge/CSS-21262D?style=flat-square&logo=css3&logoColor=C9D1D9)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=C9D1D9)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=C9D1D9)
 
-<!-- ═══════════════════ ANIMATED SNAKE / CONTRIBUTION GRAPH ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" />
+**frontend**
+<br/>
+![React.js](https://img.shields.io/badge/React.js-21262D?style=flat-square&logo=react&logoColor=C9D1D9)
+![Next.js](https://img.shields.io/badge/Next.js-21262D?style=flat-square&logo=nextdotjs&logoColor=C9D1D9)
+![Redux](https://img.shields.io/badge/Redux-21262D?style=flat-square&logo=redux&logoColor=C9D1D9)
+![Zustand](https://img.shields.io/badge/Zustand-21262D?style=flat-square&logoColor=C9D1D9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21262D?style=flat-square&logo=tailwindcss&logoColor=C9D1D9)
+![Material UI](https://img.shields.io/badge/Material_UI-21262D?style=flat-square&logo=mui&logoColor=C9D1D9)
+![Flutter](https://img.shields.io/badge/Flutter-21262D?style=flat-square&logo=flutter&logoColor=C9D1D9)
 
-### 📊 GitHub Activity
+**backend &amp; architecture**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=C9D1D9)
+![Express.js](https://img.shields.io/badge/Express.js-21262D?style=flat-square&logo=express&logoColor=C9D1D9)
+![MVC](https://img.shields.io/badge/MVC-21262D?style=flat-square&logoColor=C9D1D9)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-21262D?style=flat-square&logoColor=C9D1D9)
 
-<!-- Animated activity graph — works out of the box, no setup required -->
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajdahal&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=ffffff&hide_border=true&area=true" alt="activity graph" />
-</p>
+**databases**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=C9D1D9)
+![MySQL](https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=C9D1D9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=C9D1D9)
 
-<!-- 🐍 Optional snake animation: uncomment AFTER you add the Platane/snk GitHub Action
-     to your profile repo. Until that Action runs, this SVG won't exist. -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuvrajdahal/yuvrajdahal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
--->
+**devops &amp; cloud**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-21262D?style=flat-square&logo=amazonwebservices&logoColor=C9D1D9)
+![Docker](https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=C9D1D9)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-21262D?style=flat-square&logo=kubernetes&logoColor=C9D1D9)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-21262D?style=flat-square&logo=githubactions&logoColor=C9D1D9)
+![Linux](https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=C9D1D9)
 
+**tools**
+<br/>
+![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=C9D1D9)
+![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=C9D1D9)
+![Figma](https://img.shields.io/badge/Figma-21262D?style=flat-square&logo=figma&logoColor=C9D1D9)
+
+---
+
+### `~/ stats`
+
+<!-- grayscale theme — no colors, just white on dark -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C9D1D9&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117" alt="stats" />
+
+<!-- monochrome contribution / activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajdahal&hide_border=true&bg_color=0D1117&color=C9D1D9&title_color=C9D1D9&line=8B949E&point=C9D1D9&area=true&area_color=21262D" alt="contribution graph" />
+
+---
 
 <!--<details>
  <summary><h3>👨‍💻 Yuvraj's Coding Journey</h3></summary>-->
 
-<!-- ═══════════════════ ANIMATED WAVE FOOTER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajdahal&style=flat-square&color=8E2DE2&label=Profile+Views" alt="profile views" />
-</p>
+<div align="center">
+  <sub><code>$ exit</code> — thanks for stopping by</sub>
+</div>
