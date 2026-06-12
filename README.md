@@ -59,14 +59,6 @@ I'm an indie full-stack developer with task driven professionalism dedicated to 
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajdahal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuvrajdahal&theme=radical&hide_border=true&background=0D1117" alt="streak" />
-</p>
-
 <!-- Animated activity graph — works out of the box, no setup required -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajdahal&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=ffffff&hide_border=true&area=true" alt="activity graph" />
